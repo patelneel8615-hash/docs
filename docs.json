@@ -13,8 +13,8 @@
   },
   "navigation": {
     "pages": [
-      "quickstart",
-      "index"
+      "index",
+      "quickstart"
     ]
   },
   "logo": {

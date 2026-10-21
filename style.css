@@ -1,11 +1,12 @@
-/* Decrease padding on the main content outer block */
-main #content-area,
-.prose {
-  
+/* Adjust the grid gap spacing between standard elements if needed */
+:root {
+  --sidebar-width: 15rem;
 }
 
-/* Adjust the grid gap spacing between standard elements if needed */
-
+.peer-\[\.is-not-custom\]\:peer-\[\.is-not-center\]\:max-w-8xl {
+  max-width: none !important;
+  width: 100% !important;
+}
 
 footer {
   display: none;

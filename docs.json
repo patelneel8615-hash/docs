@@ -23,22 +23,22 @@
       {
         "tab": "Employee",
         "pages": [
-          "index1",
-          "quickstart1"
+          "employee/index",
+          "employee/employee/quickstart"
         ]
       },
       {
         "tab": "HR",
         "pages": [
-          "index2",
-          "quickstart2"
+          "hr/index",
+          "hr/quickstart"
         ]
       },
       {
         "tab": "Manager",
         "pages": [
-          "index3",
-          "quickstart3"
+          "manager/index",
+          "manager/quickstart"
         ]
       }
     ]

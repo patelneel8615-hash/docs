@@ -1,13 +1,15 @@
 /* Decrease padding on the main content outer block */
 main #content-area,
 .prose {
-  padding-top: 0rem !important;    /* Default is often 3rem to 4rem */
-  padding-bottom: 0rem !important; 
-  padding-left: 0rem !important;     /* Shrinks the blank space on the sides */
-  padding-right: 0rem !important;
+  
 }
 
 /* Adjust the grid gap spacing between standard elements if needed */
 :root {
  
+}
+
+
+footer {
+  display: none;
 }

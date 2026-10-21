@@ -6,7 +6,8 @@ main #content-area,
 
 /* Adjust the grid gap spacing between standard elements if needed */
 :root {
-   --sidebar-width: 10rem;
+  --sidebar-width: 20rem;
+  --grid-max-width: 100rem !important;
 }
 
 footer {

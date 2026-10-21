@@ -8,10 +8,10 @@
   width: 100% !important;
 }
 
-header > .max-w-8xl {
-    max-width: none !important;
-    width: 100% !important;
-  }
+header.max-w-8xl {
+  max-width: none !important;
+  width: 100% !important;
+}
 
 
 footer {

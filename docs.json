@@ -8,8 +8,8 @@
     "dark": "#15803D"
   },
   "favicon": {
-    "light": "/logo/dark.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Screenshotfrom2026-10-2114-15-39.png",
+    "dark": "/images/Screenshotfrom2026-10-2114-15-39.png"
   },
   "navigation": {
     "pages": [
@@ -23,8 +23,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/dark.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Screenshotfrom2026-10-2114-15-39.png",
+    "dark": "/images/Screenshotfrom2026-10-2114-15-39.png"
   },
   "navbar": {
     "primary": {

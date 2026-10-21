@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "HRMS DEMO",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#3354C4",
+    "light": "#92A8F3",
+    "dark": "#062AA4"
   },
   "favicon": {
     "light": "/images/Screenshotfrom2026-10-2114-15-39.png",

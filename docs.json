@@ -12,9 +12,34 @@
     "dark": "/images/Screenshotfrom2026-10-2114-15-39.png"
   },
   "navigation": {
-    "pages": [
-      "index",
-      "quickstart"
+    "tabs": [
+      {
+        "tab": "Employee",
+        "groups": [
+          {
+            "group": "Employee",
+            "pages": []
+          }
+        ]
+      },
+      {
+        "tab": "HR",
+        "groups": [
+          {
+            "group": "HR",
+            "pages": []
+          }
+        ]
+      },
+      {
+        "tab": "Manager",
+        "groups": [
+          {
+            "group": "Manager",
+            "pages": []
+          }
+        ]
+      }
     ]
   },
   "logo": {

@@ -23,22 +23,22 @@
       {
         "tab": "Employee",
         "pages": [
-          "attendance",
-          "leave"
+          "employee/attendance",
+          "employee/leave"
         ]
       },
       {
         "tab": "HR",
         "pages": [
-          "organization",
-          "quickstart"
+          "hr/organization",
+          "hr/quickstart"
         ]
       },
       {
         "tab": "Manager",
         "pages": [
-          "organization",
-          "attendance"
+          "manager/organization",
+          "manager/attendance"
         ]
       }
     ]

@@ -22,29 +22,23 @@
       },
       {
         "tab": "Employee",
-        "groups": [
-          {
-            "group": "Employee",
-            "pages": []
-          }
+        "pages": [
+          "index",
+          "quickstart"
         ]
       },
       {
         "tab": "HR",
-        "groups": [
-          {
-            "group": "HR",
-            "pages": []
-          }
+        "pages": [
+          "index",
+          "quickstart"
         ]
       },
       {
         "tab": "Manager",
-        "groups": [
-          {
-            "group": "Manager",
-            "pages": []
-          }
+        "pages": [
+          "index",
+          "quickstart"
         ]
       }
     ]

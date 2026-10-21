@@ -5,14 +5,7 @@ main #content-area,
 }
 
 /* Adjust the grid gap spacing between standard elements if needed */
-:root {
-  --sidebar-width: 15rem;
-}
 
-.peer-\[\.is-not-custom\]\:peer-\[\.is-not-center\]\:max-w-8xl {
-  max-width: none !important;
-  width: 100% !important;
-}
 
 footer {
   display: none;

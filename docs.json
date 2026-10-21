@@ -24,15 +24,9 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Aiwi",
       "href": "https://app.mintlify.com"
     }
   },
